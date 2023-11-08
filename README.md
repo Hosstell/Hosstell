@@ -3,13 +3,13 @@
 - 📫 How to reach me - write me to email st.andrey-serov@mail.ru
 
 ## My Projects
-### Single Pin Pong
+### :tennis: Single Pin Pong
 http://79.133.183.139:3000/
-#### :tennis: How works
+#### How works
 1. Download APK by first QR code
 2. Connect to the rocket by second QR code using application
 
-### Game Books
+### :books: Game Books
 Путешествие на дно моря - https://t.me/na_dno_morya_bot  
 Тайна Заброшенного Замка - https://t.me/taina_zamka_bot  
 Пещера времени - https://t.me/peschera_vremeni_bot  
