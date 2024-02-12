@@ -8,6 +8,8 @@
 ### :tennis: Single Pin Pong
 **REPO**: https://github.com/Hosstell/single-pin-pong
 
+![gif](https://s2.ezgif.com/tmp/ezgif-2-25f317a020.gif)
+
 #### Run command
 ```
 docker run -p 3000:3000 vsas/single-pin-pong
