@@ -18,7 +18,7 @@ docker run -p 3000:3000 vsas/single-pin-pong
 2. Connect to the rocket by second QR code using application
 
 #### Example
-![VIDEO](https://www.youtube.com/watch?v=u1ybdKhS9wI)
+![https://www.youtube.com/watch?v=u1ybdKhS9wI](VIDEO)
 
 ### :books: Game Books
 Путешествие на дно моря - https://t.me/na_dno_morya_bot  
