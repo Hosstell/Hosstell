@@ -5,8 +5,8 @@
 
 ## Мои проекты
 ### :tennis: Single Pin Pong
-**REPO**: https://github.com/Hosstell/single-pin-pong
-Управление виртуальной ракетной при помощи телефона
+**REPO**: https://github.com/Hosstell/single-pin-pong  
+Управление виртуальной ракетной при помощи телефона  
 [Привер использования](https://www.youtube.com/watch?v=u1ybdKhS9wI)
 
 #### Запуск
