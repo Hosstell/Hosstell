@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Serov
 - 👀 I’m interested in Backend, Frontend and ML
-- 📫 How to reach me - write me to email st.andrey-serov@mail.ru
+- 📫 How to reach me - write to me at st.andrey-serov@mail.ru or Telegram https://t.me/Hosstell21
 - My Kaggle profile: https://www.kaggle.com/hosstell
 - My LeetCode profile: https://leetcode.com/Hosstell
 
