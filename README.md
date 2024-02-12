@@ -6,7 +6,7 @@
 
 ## My Projects
 ### :tennis: Single Pin Pong
-REPO: https://github.com/Hosstell/single-pin-pong
+**REPO**: https://github.com/Hosstell/single-pin-pong
 
 #### Run command
 ```
