@@ -8,7 +8,7 @@
 ### :tennis: Single Pin Pong
 **REPO**: https://github.com/Hosstell/single-pin-pong
 
-![gif](https://s2.ezgif.com/tmp/ezgif-2-25f317a020.gif)
+<img src="https://s2.ezgif.com/tmp/ezgif-2-25f317a020.gif" width="250"/>
 
 #### Run command
 ```
