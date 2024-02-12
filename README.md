@@ -24,3 +24,5 @@ docker run -p 3000:3000 vsas/single-pin-pong
 Тайна Заброшенного Замка - https://t.me/taina_zamka_bot  
 Пещера времени - https://t.me/peschera_vremeni_bot  
 
+### ✋ Catch-up (Догонялки)
+**РЕПО:** https://github.com/Hosstell/Catch-up
