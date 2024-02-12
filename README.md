@@ -19,6 +19,11 @@ docker run -p 3000:3000 vsas/single-pin-pong
 
 #### Example
 [![](https://www.youtube.com/watch?v=u1ybdKhS9wI)](https://www.youtube.com/watch?v=u1ybdKhS9wI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### :books: Game Books
 Путешествие на дно моря - https://t.me/na_dno_morya_bot  
