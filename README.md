@@ -4,7 +4,7 @@
 
 ## My Projects
 ### :tennis: Single Pin Pong
-http://79.133.183.139:3000/
+REPO: https://github.com/Hosstell/single-pin-pong
 #### How works
 1. Download APK by first QR code
 2. Connect to the rocket by second QR code using application
