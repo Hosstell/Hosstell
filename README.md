@@ -19,10 +19,18 @@ docker run -p 3000:3000 vsas/single-pin-pong
 2. Устанавливаем приложение
 3. При помощи приложения подключаемся к ракетке по ссылке "Connect"
 
-### :books: Game Books
-Путешествие на дно моря - https://t.me/na_dno_morya_bot  
-Тайна Заброшенного Замка - https://t.me/taina_zamka_bot  
-Пещера времени - https://t.me/peschera_vremeni_bot  
-
 ### ✋ Catch-up (Догонялки)
 **РЕПО:** https://github.com/Hosstell/Catch-up
+
+### :books: Game Books
+**REPO**: https://github.com/Hosstell/game-book
+
+Данный проект был разработан для удобного прочтения книг-игр через чат-бота в телеграме.   
+В проекте присуствуют 3 книги:
+Путешествие на дно моря | Р. А. Монтгомери | [ru, en]
+Пещера времени | Эдвард Паккард | [ru, en]
+Тайна Заброшенного Замка | Эдвард Паккард | [ru, en]
+
+#### Пример
+![Alt Text](https://github.com/Hosstell/game-book/blob/main/gifs/example_rus.gif?raw=true)
+
