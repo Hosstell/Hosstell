@@ -45,6 +45,6 @@
 - Пещера времени | Эдвард Паккард | [ru, en]  
 - Тайна Заброшенного Замка | Эдвард Паккард | [ru, en]  
 
-**Пример:**
+**Пример:**  
 ![Alt Text](https://github.com/Hosstell/game-book/blob/main/gifs/example_rus.gif?raw=true)
 
