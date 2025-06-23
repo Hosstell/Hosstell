@@ -7,7 +7,7 @@
 
 ### 📓 Расширение для Obsidian для работы с изображением
 ![GitHub Repo stars](https://img.shields.io/github/stars/Hosstell/image-tools-obsidian-plugin?style=for-the-badge&logo=github) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Hosstell/image-tools-obsidian-plugin/total?style=for-the-badge&logo=github)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2FHEAD%2Fcommunity-plugin-stats.json&query=%24.image-tools.downloads&style=for-the-badge&logo=obsidian&label=Downloads&color=red)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2FHEAD%2Fcommunity-plugin-stats.json&query=%24.image-tools.downloads&style=for-the-badge&logo=obsidian&label=Downloads&color=red)  
 REPO: https://github.com/Hosstell/image-tools-obsidian-plugin
 
 С помощью этого плагина вы можете:  
