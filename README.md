@@ -15,7 +15,7 @@ REPO: https://github.com/Hosstell/image-tools-obsidian-plugin
 • Легко настраивать выравнивание изображений (по левому краю, по центру, по правому краю)  
 • Открывать изображения во весь экран для лучшего просмотра
 
-Пример:
+**Пример:**
 ![](https://raw.githubusercontent.com/Hosstell/image-tools-obsidian-plugin/refs/heads/main/static/result.gif)
 
 ### :tennis: Single Pin Pong
