@@ -22,8 +22,11 @@
 ---
 ### :tennis: Single Pin Pong
 **REPO**: https://github.com/Hosstell/single-pin-pong  
-Управление виртуальной ракетной при помощи телефона  
-[Привер использования](https://www.youtube.com/watch?v=u1ybdKhS9wI)
+Управление виртуальной ракетной при помощи телефона
+
+**Пример:**  
+![](https://github.com/Hosstell/single-pin-pong/blob/main/video_2024_02_12_22_29_55.gif?raw=true)
+[Полное видео](https://www.youtube.com/watch?v=u1ybdKhS9wI)
 
 ### ✋ Catch-up (Догонялки)
 **REPO:** https://github.com/Hosstell/Catch-up
