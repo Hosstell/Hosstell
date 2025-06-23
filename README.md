@@ -27,9 +27,15 @@
 ![](https://github.com/Hosstell/single-pin-pong/blob/main/video_2024_02_12_22_29_55.gif?raw=true)  
 [Полное видео](https://www.youtube.com/watch?v=u1ybdKhS9wI)
 
+--- 
 ### ✋ Catch-up (Догонялки)
 **REPO:** https://github.com/Hosstell/Catch-up
+Онлайн игра
 
+**Пример:**
+![](https://github.com/Hosstell/Catch-up/blob/master/gifs/2.gif?raw=true)
+
+---
 ### :books: Game Books
 **REPO**: https://github.com/Hosstell/game-book
 
@@ -39,6 +45,6 @@
 - Пещера времени | Эдвард Паккард | [ru, en]  
 - Тайна Заброшенного Замка | Эдвард Паккард | [ru, en]  
 
-#### Пример
+**Пример:**
 ![Alt Text](https://github.com/Hosstell/game-book/blob/main/gifs/example_rus.gif?raw=true)
 
