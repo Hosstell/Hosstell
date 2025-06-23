@@ -5,11 +5,15 @@
 
 ## Мои проекты
 
-### Расширение для Obsidian для работы с изображением
-https://github.com/Hosstell/image-tools-obsidian-plugin
-
+### 📓 Расширение для Obsidian для работы с изображением
 ![GitHub Repo stars](https://img.shields.io/github/stars/Hosstell/image-tools-obsidian-plugin?style=for-the-badge&logo=github) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Hosstell/image-tools-obsidian-plugin/total?style=for-the-badge&logo=github)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2FHEAD%2Fcommunity-plugin-stats.json&query=%24.image-tools.downloads&style=for-the-badge&logo=obsidian&label=Downloads&color=red)
+REPO: https://github.com/Hosstell/image-tools-obsidian-plugin
+
+С помощью этого плагина вы можете:  
+• Легко изменять размер изображений на странице, перемещая курсор  
+• Легко настраивать выравнивание изображений (по левому краю, по центру, по правому краю)  
+• Открывать изображения во весь экран для лучшего просмотра
 
 Пример:
 ![](https://raw.githubusercontent.com/Hosstell/image-tools-obsidian-plugin/refs/heads/main/static/result.gif)
@@ -19,10 +23,6 @@ https://github.com/Hosstell/image-tools-obsidian-plugin
 Управление виртуальной ракетной при помощи телефона  
 [Привер использования](https://www.youtube.com/watch?v=u1ybdKhS9wI)
 
-#### Запуск
-```
-docker run -p 3000:3000 vsas/single-pin-pong
-```
 
 #### Как это работает
 1. Скачиваем приложение на телефон при по ссылке "Download APK"
