@@ -18,16 +18,12 @@ REPO: https://github.com/Hosstell/image-tools-obsidian-plugin
 **Пример:**
 ![](https://raw.githubusercontent.com/Hosstell/image-tools-obsidian-plugin/refs/heads/main/static/result.gif)
 
+
+---
 ### :tennis: Single Pin Pong
 **REPO**: https://github.com/Hosstell/single-pin-pong  
 Управление виртуальной ракетной при помощи телефона  
 [Привер использования](https://www.youtube.com/watch?v=u1ybdKhS9wI)
-
-
-#### Как это работает
-1. Скачиваем приложение на телефон при по ссылке "Download APK"
-2. Устанавливаем приложение
-3. При помощи приложения подключаемся к ракетке по ссылке "Connect"
 
 ### ✋ Catch-up (Догонялки)
 **РЕПО:** https://github.com/Hosstell/Catch-up
